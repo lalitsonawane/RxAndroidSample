@@ -73,7 +73,6 @@ public class CheeseActivity extends BaseSearchActivity {
                 .observeOn(Schedulers.io())
                 .map(new Function<String, List<String>>() {
 
-
                     @Override
                     public List<String> apply(String query) {
                         return mCheeseSearchEngine.search(query);
