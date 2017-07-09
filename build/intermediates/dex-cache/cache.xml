@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_c7281776d8845b64fe726b994741d813beb06f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/e3b7357c971d826512b7b8754f6e21a87b283bc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a66a1119581da18c3cfd7c25df47f5542721bf26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/ef6e437f8f9cd699f229ac4fe02402e2f3e822bb/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2a6f68bf536e5cc14270940677088d2e0f207d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/ef6e437f8f9cd699f229ac4fe02402e2f3e822bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11214bb3051e68389b99acbe2d8132b88a58fb1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/9c252ce3d53c0f1504ac9baeb38b5c37c2d9608c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de7e7b2a983c024a6c2039a89aa2af7b7b626061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/00a54d33602f9581114a03009da01f3060b55e01/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8aad69087cae59e26663fa21c84987dc03ddb953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72f294bb31f3f72db82ae7a253ed6914aa887188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/8e232cdf349a5a4664f256a2eadd96a79da76075/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_600f593d54e785d0fcce307fb2d3b1581e4e9834/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bbd442cd945a8824a898f2bb2835f1d0f588a6c7">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f5cd0a6799f98af69abda1c8b00cda877f2b927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/ec69d406ee1d10095d1dc40f4543e3af781c53ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a695f645ac7c91f691a6b341343f315cc3bfd1d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_495445569408f1d9b0955f9c3052c45ba194f6d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/8df737e433902e950cd6b90eacf12fcbf2da9c69/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f1168005a3c1a6f3c901bc1b6945fbd729fbb2e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/01747790139277e2c6518544879ceef8082bc335/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b873829a697ad0d752aab0daecec52447fa3979b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/6e2d2540118687f528bdbcf0dda5c90846e1ad61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bc039c567681dcb0fdc1b74a575d45e2fd00cb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_3987fe7ad2c1391df4bbbf82e7edd3dfaf5b078f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/00a54d33602f9581114a03009da01f3060b55e01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_041f430fbecf0d776edaad700f5d7c70c282daad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/e3b7357c971d826512b7b8754f6e21a87b283bc3/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3f00f22ff1c8bbd3cc81f6629de9a164932d6231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/78ffa987ecbfb13d6c748307add1cc4f4cd02ddf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_605a004a4e9b67443043d041c6453815603fd8c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/5e7b970c179acd858ef930c2b1c998995cf5d3af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c32e7056a74aa2ff423be5de8645a0e921a22ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/8e232cdf349a5a4664f256a2eadd96a79da76075/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c59bc8ea90ba9b15310661a18cb223894fc8c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lalitkumarsonawane/.android/build-cache/8df737e433902e950cd6b90eacf12fcbf2da9c69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/lalitkumarsonawane/Android-Projects/Practice-Projects/CheeseFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18fbef21c45a5b896ac9bb90554736f46b62c20c/classes.dex" />
+    </item>
+
+</items>
