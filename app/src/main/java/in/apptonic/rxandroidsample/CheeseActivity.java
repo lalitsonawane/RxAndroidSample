@@ -24,12 +24,16 @@ package in.apptonic.rxandroidsample;
 
 import android.view.View;
 
+import java.util.List;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
 import io.reactivex.ObservableOnSubscribe;
+import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Cancellable;
 import io.reactivex.functions.Consumer;
+import io.reactivex.functions.Function;
+import io.reactivex.schedulers.Schedulers;
 
 public class CheeseActivity extends BaseSearchActivity {
 
@@ -64,12 +68,21 @@ public class CheeseActivity extends BaseSearchActivity {
     protected void onStart() {
         super.onStart();
 
-        Observable<String> serchTextObservable = createButtononCLickObservable();
-        serchTextObservable
-                .subscribe(new Consumer<String>() {
+        Observable<String> searchTextObservable = createButtononCLickObservable();
+        searchTextObservable
+                .observeOn(Schedulers.io())
+                .map(new Function<String, List<String>>() {
+
                     @Override
-                    public void accept(String s) throws Exception {
-                        showResult(mCheeseSearchEngine.search(s));
+                    public List<String> apply(String query) {
+                        return mCheeseSearchEngine.search(query);
+                    }
+                })
+                .observeOn(AndroidSchedulers.mainThread())
+                .subscribe(new Consumer<List<String>>() {
+                    @Override
+                    public void accept(List<String> result) throws Exception {
+                        showResult(result);
 
                     }
                 });
